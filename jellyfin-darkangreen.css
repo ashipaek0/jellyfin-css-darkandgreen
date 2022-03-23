@@ -1,31 +1,30 @@
 /*
 CSS Jellyfin heme Name: Dark and Green
 */
-
-.mdl-slider { color: #316636; }
-.mdl-slider::-webkit-slider-thumb { color: #316636; }
-.mdl-slider::-ms-thumb { background: #316636; }
-.mdl-slider::-webkit-slider-thumb { background: #316636; }
-.mdl-slider::-moz-range-thumb { background: #316636; }
-.mdl-slider-background-lower { color: #316636; background-color: #316636; }
-.mdl-slider::-moz-range-progress { color: #316636; }
-.skinHeader-withBackground { background-color: #316636 !important; }
-.navMenuOption-selected { background: #316636 !important; }
-a.navMenuOption-selected { background: #316636 !important; }
-.button-submit { background: #316636 !important; }
-.button-link { color: #316636 !important; }
-.listItemIcon:not(.listItemIcon-transparent) { background-color: #316636 !important; }
-.emby-checkbox:checked+span+span+.checkboxOutline, .itemProgressBarForeground { background-color: #316636 !important; }
-.emby-checkbox:checked+span+span+.checkboxOutline { border-color: #316636 !important; }
-.inputLabelFocused, .selectLabelFocused, .textareaLabelFocused { color: #316636; }
-.iconOsdProgressInner { background: #316636 !important; }
+.mdl-slider { color: #E50914; }
+.mdl-slider::-webkit-slider-thumb { color: #E50914; }
+.mdl-slider::-ms-thumb { background: #E50914; }
+.mdl-slider::-webkit-slider-thumb { background: #E50914; }
+.mdl-slider::-moz-range-thumb { background: #E50914; }
+.mdl-slider-background-lower { color: #E50914; background-color: #E50914; }
+.mdl-slider::-moz-range-progress { color: #E50914; }
+.skinHeader-withBackground { background-color: #E50914 !important; }
+.navMenuOption-selected { background: #E50914 !important; }
+a.navMenuOption-selected { background: #E50914 !important; }
+.button-submit { background: #E50914 !important; }
+.button-link { color: #E50914 !important; }
+.listItemIcon:not(.listItemIcon-transparent) { background-color: #E50914 !important; }
+.emby-checkbox:checked+span+span+.checkboxOutline, .itemProgressBarForeground { background-color: #E50914 !important; }
+.emby-checkbox:checked+span+span+.checkboxOutline { border-color: #E50914 !important; }
+.inputLabelFocused, .selectLabelFocused, .textareaLabelFocused { color: #E50914; }
+.iconOsdProgressInner { background: #E50914 !important; }
 .card { cursor: unset !important; }
 .cardOverlayContainer { cursor: pointer !important };
 .mdl-switch:focus, .mdl-switch__input:focus, .noautofocus:focus { outline: rgba(49, 102, 54, 0.5) auto 1px !important; };
 
 
 div[data-role=controlgroup] a.ui-btn-active {
-    background: #316636 !important;
+    background: #E50914 !important;
 }
 
 
@@ -55,12 +54,12 @@ html {
 }
 
 .repeatButton-active {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .downloadbutton-icon-complete,
 .downloadbutton-icon-on {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .programCell-kids {
@@ -74,75 +73,75 @@ html {
 .wizardStartForm,
 .ui-corner-all,
 .ui-shadow {
-  background-color: #316636 !important;
+  background-color: #E50914 !important;
 }
 .skinHeader-withBackground {
-    background-color: #316636 !important;
+    background-color: #E50914 !important;
 }
 .paper-icon-button-light:focus {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 .button-submit {
-    background: #316636 !important;
+    background: #E50914 !important;
 }
 
 .button-submit:focus {
-    background: #316636
+    background: #E50914
 }
 
 .inputLabelFocused,
 .selectLabelFocused,
 .textareaLabelFocused {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .itemSelectionPanel {
-    border: 1px solid #316636 !important;
+    border: 1px solid #E50914 !important;
 }
 
 .selectionCommandsPanel {
-    background: #316636 !important;
+    background: #E50914 !important;
 }
 
 .upNextDialog-countdownText {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .alphaPickerButton-tv:focus {
-    background-color: #316636 !important;
+    background-color: #E50914 !important;
 }
 .progressring-spiner {
-    border-color: #316636 !important;
+    border-color: #E50914 !important;
 }
 
 .button-flat:hover,
 .button-flat-accent,
 .button-link {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .emby-input:focus,
 .emby-textarea:focus {
-    border-color: #316636 !important;
+    border-color: #E50914 !important;
 }
 .emby-select-withcolor:focus {
-    border-color: #316636 !important
+    border-color: #E50914 !important
 }
 
 select.emby-select-withcolor:focus {
-    border-color: #316636 !important
+    border-color: #E50914 !important
 }
 
 .emby-select-tv-withcolor:focus {
-    background-color: #316636 !important;
+    background-color: #E50914 !important;
 }
 
 .emby-checkbox:checked+span+span+.checkboxOutline {
-    border-color: #316636 !important;
+    border-color: #E50914 !important;
 }
 .emby-checkbox:checked+span+span+.checkboxOutline,
 .itemProgressBarForeground {
-    background-color: #316636 !important;
+    background-color: #E50914 !important;
 }
 .countIndicator,
 .playedIndicator {
@@ -150,44 +149,44 @@ select.emby-select-withcolor:focus {
 }
 
 .fullSyncIndicator {
-    background: #316636 !important;
+    background: #E50914 !important;
 }
 
 .navMenuOption-selected {
-    background: #316636 !important;
+    background: #E50914 !important;
 }
 
 .emby-button-focusscale:focus {
-    background: #316636 !important;
+    background: #E50914 !important;
 }
 .guide-channelHeaderCell:focus,
 .programCell:focus {
-    background-color: #316636 !important;
+    background-color: #E50914 !important;
 }
 
 .guide-date-tab-button.emby-tab-button-active,
 .guide-date-tab-button:focus {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .guide-date-tab-button.emby-button-tv:focus {
-    background-color: #316636 !important;
+    background-color: #E50914 !important;
 }
 
 .ratingbutton-icon-withrating {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .playstatebutton-icon-played {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 
 .card:focus .card-focuscontent {
-    border-color: #316636 !important;
+    border-color: #E50914 !important;
 }
 
 .mdl-switch__input:checked + .mdl-switch__label + .mdl-switch__trackContainer > .mdl-switch__thumb {
-    background: #316636 !important;
+    background: #E50914 !important;
 }
 
 .mdl-switch__input:checked:focus + .mdl-switch__label + .mdl-switch__trackContainer .mdl-switch__focus-helper {
@@ -201,25 +200,26 @@ select.emby-select-withcolor:focus {
 
 .paper-icon-button-light:focus,
 .paper-icon-button-light:hover:not(:disabled) {
-    color: #316636 !important;
+    color: #E50914 !important;
     background-color: rgba(49, 102, 54, .2) !important;
 }
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred .paper-icon-button-light:hover:not(:disabled) {
-    color: #316636 !important;
+    color: #E50914 !important;
     background-color: rgba(255, 255, 255, .7) !important;
 }
 
 input:focus input[type=checkbox]:focus {
-    color: #316636 !important;
+    color: #E50914 !important;
     background-color: rgba(49, 102, 54, 0) !important;
 }
 
 :root {
-    --swiper-theme-color: #316636 !important;
+    --swiper-theme-color: #E50914 !important;
 }
 .buttonActive {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
+/* Top menu transparency https://jellyfin.org/docs/general/clients/css-customization.html#transparent-top-menu */
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred {
     background: none !important; 
     background-color: rgba(0, 40, 40, 40, 0.9) !important;
@@ -229,10 +229,10 @@ input:focus input[type=checkbox]:focus {
     background-color: rgba(40, 40, 40, 0.9) !important;
 }
 .emby-tab-button.show-focus:focus,.emby-tab-button:hover {
-    color: #316636 !important;
+    color: #E50914 !important;
 }
 .skinHeader.focuscontainer-x.skinHeader-withBackground.skinHeader-blurred .paper-icon-button-light:hover:not(:disabled) {
-    color: #316636 !important;
+    color: #E50914 !important;
     background-color: rgba(49, 102, 54, .2) !important;
 }
 .emby-checkbox:checked, .checkboxOutline, .checkboxIcon-checked {
